@@ -1,6 +1,7 @@
 # Tugas-Pertemuan-11
 
 Pengertian CRUD
+
   Create, Read, Update, dan Delete (CRUD) adalah kerangka kerja fundamental untuk manajemen data dalam aplikasi. Keempat operasi dasar ini mencakup semua proses manipulasi data dalam database, menjadikannya elemen esensial bagi developer.
 
 Kebutuhan akan sistem CRUD muncul dari kebutuhan akan manajemen data yang terstruktur dan sistematis. CRUD membantu merapikan proses dalam relasi bisnis, akademik, hingga administratif yang melibatkan data besar dan kompleks.
@@ -14,6 +15,7 @@ Saat memastikan integritas data dalam aplikasi penting.
 Saat memerlukan sistem pemeliharaan data yang efisien.
 
 Cara Kerja CRUD
+
   Pada kinerjanya, CRUD biasanya mengacu pada beberapa persyaratan yang telah ditetapkan pada sistem sebuah website atau aplikasi. Agar lebih mudah untuk dipahami, Dewaweb akan memberikan sebuah contoh skenario website media sosial dengan asumsi bahwa pengguna dapat:
 
 Membuat akun
@@ -25,6 +27,7 @@ Ketika pengguna mendaftarkan diri ke media sosial tersebut, maka server akan mem
 Apabila pengguna mengubah nama, tanggal lahir, atau informasi lainnya, maka server akan menerima perintah UPDATE. Ketika pengguna menghapus foto profil atau akun, maka server akan menjalankan perintah DELETE.
 
 Fungsi CRUD
+
   Fungsi CRUD terfokus pada pengelolaan data pada sistem database, menjadikannya vital bagi setiap aplikasi atau sistem yang bergantung pada informasi. Berikut ini pembahasan masing-masing fungsi dari Create, Read, Update, dan Delete:
 
 Create
